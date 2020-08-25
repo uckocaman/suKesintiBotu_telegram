@@ -4,7 +4,7 @@
 
 ### Bota t.me/suKesintiBot bağlantısından ulaşabilirsiniz.
 
-Kesintinin olup olmayacağını İSKİ'nin duyurduğu [Arıza Kesinti](https://www.iski.istanbul/web/tr-TR/ariza-kesinti) sayfasından kontrol etmektedir. 
+Kesintinin olup olmayacağını İSKİ'nin duyurduğu [Arıza Kesinti](https://www.iski.istanbul/web/tr-TR/ariza-kesinti) sayfasından kontrol etmektedir.</br>
 Host olarak [Google Cloud](https://cloud.google.com/) kullanıldı.
 
 

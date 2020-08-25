@@ -45,7 +45,7 @@ def bildir2(ilce,mahalle):
                         bitis = i.find_all("td")
                         bitme = bitis[2].text.strip()
                     iter += 1
-                mesaj = "{0}-{1} mahallesinde {2} sebebiyle, {3} tarihinde baslanan/baslanacak {4}".format(ilce,mahalle,aciklama2,baslangic,bitme)
+                mesaj = f"{ilce}-{mahalle} mahallesinde {aciklama2} sebebiyle, {baslangic} tarihinde baslanan/baslanacak {bitme}"
                 if msg.text == mesaj:
                     pass
                 else:
